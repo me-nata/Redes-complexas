@@ -32,4 +32,4 @@ Dataset statistics
 * Diameter (longest shortest path)	9
 * 90-percentile effective diameter	5.4
 
-<h2>OBS: É recomendado acessar o notebook através do link para o google colab</h2>
+**OBS: É recomendado acessar o notebook através do link para o google colab**
