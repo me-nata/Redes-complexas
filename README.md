@@ -4,10 +4,6 @@
 <h1>HandsOn #01 - Gnutella peer-to-peer network</h1>
 Trabalho da disciplina de Complex Networks: Exploração de métricas em grafos, plotagem, centralidade e suas correlações com o tema escolhido.
 
-
-\
-Natã Oliveira Sousa -- $712480$
-
 \
 \
 <img src="https://drive.google.com/uc?id=1Ju2zNBx2rC91PcjX_-msy3W5DFNXhaL0">
